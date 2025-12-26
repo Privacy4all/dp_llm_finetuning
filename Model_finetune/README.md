@@ -1,4 +1,4 @@
-# DP LoRA Fine-Tuning with Opacus (Minimal Script)
+# DP LoRA Fine-Tuning with Opacus
 
 This script performs **differentially private (DP) fine-tuning** of a causal language model using:
 
