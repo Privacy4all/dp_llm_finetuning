@@ -5,7 +5,7 @@ This repository provides the related codes for studying privacy leakage of DP-fi
 Related notebook: finetune.ipynb
 
 ## Generation
-Related notebook: generation.ipynb
+Related notebook: Generation.ipynb
 
 ## Privacy leakage exploration
-Related notebook: leakage.ipynb
+Related notebook: Leakage_eval.ipynb
